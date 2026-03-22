@@ -27,17 +27,17 @@ Currently learning & working on projects to improve my skills in:
 ### 🧠 Diabetes Prediction (ML)
 - Supervised ML model using Python & sklearn  
 - Train/test split, preprocessing, accuracy score  
-- **Repo: Coming soon**
+- **Repo: https://github.com/SaiPraneeth-58/Diabetes-Prediction-ML**
 
 ### 🌐 Portfolio Website
 - HTML/CSS/JS responsive personal portfolio  
 - Clean UI, animations  
-- **Repo: Coming soon**
+- **Repo: https://github.com/SaiPraneeth-58/Portfolio-Website**
 
 ### 📝 Notes REST API
 - Node.js + Express backend  
 - CRUD operations  
-- **Repo: Coming soon**
+- **Repo: https://github.com/SaiPraneeth-58/Notes-REST-API**
 
 ---
 
